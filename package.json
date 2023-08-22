@@ -1,12 +1,13 @@
 {
   "name": "@kleberbernardo/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "ESLint configuration.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "kleberbernardo/eslint-config"
+    "type": "git",
+    "url": "https://github.com/kleberbernardo/eslint-config.git"
   },
   "peerDependencies": {
     "eslint": "^8.47.0",
